@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  tetragon-mock:
+    image: python:3.11-slim
+    command: python tetragon_siem_bridge.py

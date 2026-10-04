@@ -1,0 +1,9 @@
+tetragon:
+  enabled: true
+  export:
+    mode: "stdout"
+    filenames:
+      - "/var/run/cilium/tetragon/tetragon.log"
+  grpc:
+    enabled: true
+    address: "0.0.0.0:54321"
