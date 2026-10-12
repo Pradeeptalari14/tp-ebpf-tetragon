@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # 🛡️ Cilium Tetragon eBPF Kernel Runtime Security Studio
 
 [![CI SRE Validation](https://github.com/Pradeeptalari14/tp-ebpf-tetragon/actions/workflows/tetragon-ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-ebpf-tetragon/actions)
@@ -182,3 +185,6 @@ tp-ebpf-tetragon/
 
 - **License:** [MIT License](LICENSE)
 - **Attribution:** Maintained by **[Talari Pradeep](https://talaripradeep.info/)** · AI Infrastructure & Platform SRE Lead
+
+---
+*Synchronized with [Cilium Tetragon eBPF Kernel Runtime Security Studio Studio](https://pradeeptalari.me/tools/ebpf-tetragon-security/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
